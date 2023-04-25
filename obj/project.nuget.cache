@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3SH2Bq7qZi/R0SkV1q7ilG/arf/uNzy3bgrOMnmB98zY/CLlKjqGQ+ukXy4NyakcGR56v07RutdxNet3rN+TIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jjust\\OneDrive\\Desktop\\Html-Based-Loader-master\\Html-Based-Loader-master\\Loader\\Loader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jjust\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\jjust\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\jjust\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
